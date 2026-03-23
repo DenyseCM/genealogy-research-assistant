@@ -83,4 +83,4 @@ Denyse Allen is a Pennsylvania genealogy researcher, published author (*Colonial
 
 ## License
 
-MIT
+[FSL-1.1-MIT](LICENSE.md) — Free to use for research, education, and personal projects. Cannot be repackaged as a competing commercial product. Converts to MIT after two years.
