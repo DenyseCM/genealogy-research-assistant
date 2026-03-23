@@ -1,0 +1,26 @@
+{
+  "name": "chronicle-makers-genealogy",
+  "owner": {
+    "name": "Denyse Allen / Chronicle Makers",
+    "email": "ancestorspa@gmail.com"
+  },
+  "metadata": {
+    "description": "AI-powered genealogy research tools that follow the Genealogical Proof Standard. Research planning, source analysis, citation coaching, evidence evaluation, and proof writing."
+  },
+  "plugins": [
+    {
+      "name": "genealogy-research-assistant",
+      "source": "./",
+      "description": "GPS-compliant research assistant for family historians. Five commands and three skills for planning research, analyzing sources, building citations, evaluating evidence, and writing proof arguments.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Denyse Allen / Chronicle Makers"
+      },
+      "homepage": "https://chroniclemakers.com",
+      "repository": "https://github.com/DenyseCM/genealogy-research-assistant",
+      "license": "FSL-1.1-MIT",
+      "keywords": ["genealogy", "family-history", "research", "GPS", "citations", "proof-standard", "ancestors"],
+      "category": "research"
+    }
+  ]
+}
