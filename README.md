@@ -47,7 +47,7 @@ This plugin adds five commands and three knowledge skills to Claude, turning it 
 ### Claude Desktop (Cowork)
 
 Download `genealogy-research-assistant.plugin` and install it through Cowork's plugin manager.
-```
+
 
 ## Example: Resolving a Death Date Conflict
 
