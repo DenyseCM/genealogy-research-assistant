@@ -38,14 +38,15 @@ This plugin adds five commands and three knowledge skills to Claude, turning it 
 
 ## Installation
 
+### Claude Code
+```
+/plugin marketplace add DenyseCM/genealogy-research-assistant
+/plugin install genealogy-research-assistant@chronicle-makers-genealogy
+```
+
 ### Claude Desktop (Cowork)
 
 Download `genealogy-research-assistant.plugin` and install it through Cowork's plugin manager.
-
-### Claude Code
-
-```bash
-claude install genealogy-research-assistant
 ```
 
 ## Example: Resolving a Death Date Conflict
