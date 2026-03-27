@@ -1,7 +1,7 @@
 {
-  "name": "genealogy-research-assistant",
+  "name": "genealogy-research-analyst",
   "version": "1.0.0",
-  "description": "A GPS-compliant genealogy research assistant that helps family historians plan searches, analyze documents, cite sources properly, evaluate evidence, and write conclusions. Built on the Genealogical Proof Standard.",
+  "description": "A GPS-compliant genealogy research analyst that helps family historians plan searches, analyze documents, cite sources properly, evaluate evidence, and write conclusions. Built on the Genealogical Proof Standard.",
   "author": {
     "name": "Denyse Allen, Chronicle Makers"
   },

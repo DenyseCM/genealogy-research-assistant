@@ -1,8 +1,8 @@
-# Genealogy Research Assistant
+# Genealogy Research Analyst
 
 **By Denyse Allen, Chronicle Makers**
 
-A GPS-compliant genealogy research assistant that helps family historians organize research, analyze sources, build proper citations, and write proof summaries — all following the Genealogical Proof Standard.
+A GPS-compliant genealogy research analyst that helps family historians organize research, analyze sources, build proper citations, and write proof summaries — all following the Genealogical Proof Standard.
 
 ## What It Does
 

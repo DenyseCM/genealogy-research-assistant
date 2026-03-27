@@ -1,6 +1,6 @@
-# Genealogy Research Assistant
+# Genealogy Research Analyst
 
-An AI-powered research assistant for family historians using Claude. Applies the Genealogical Proof Standard (GPS) to help you plan research, analyze sources, build citations, evaluate conflicting evidence, and write proof arguments.
+An AI-powered research analyst for family historians using Claude. Applies the Genealogical Proof Standard (GPS) to help you plan research, analyze sources, build citations, evaluate conflicting evidence, and write proof arguments.
 
 Built by [Denyse Allen](https://chroniclemakers.com) / [Chronicle Makers](https://chroniclemakers.com).
 
@@ -40,13 +40,13 @@ This plugin adds five commands and three knowledge skills to Claude, turning it 
 
 ### Claude Code
 ```
-/plugin marketplace add DenyseCM/genealogy-research-assistant
-/plugin install genealogy-research-assistant@chronicle-makers-genealogy
+/plugin marketplace add DenyseCM/genealogy-research-analyst
+/plugin install genealogy-research-analyst@chronicle-makers-genealogy
 ```
 
 ### Claude Desktop (Cowork)
 
-Download `genealogy-research-assistant.plugin` and install it through Cowork's plugin manager.
+Download `genealogy-research-analyst.plugin` and install it through Cowork's plugin manager.
 
 
 ## Example: Resolving a Death Date Conflict
