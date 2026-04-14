@@ -78,9 +78,12 @@ Family historians anywhere in the United States who want to do credible research
 
 **Want to go deeper?** An extended version of this plugin — with additional skills, hands-on workshops, and community support — is featured in the [Chronicle Makers community on Skool](https://www.skool.com/chronicle-makers).
 
+## Development History
+This plugin grew out of the AI methodology taught in Chronicle Makers' Genealogy Research Lab, launched August 2025. It applies the Genealogical Proof Standard, a published methodology from the Board for Certification of Genealogists, the decades of work of Elizabeth Shown Mills, and the practice achieved through the ProGen course. This plugin's contribution is a series of Claude Skill implementations that coaches and teaches users, rather than generating content and answers wholesale.
+
 ## About the Author
 
-Denyse Allen is a Pennsylvania genealogy researcher, published author (*Colonial Pennsylvania Genealogy Research*, *Pennsylvania Vital Records Research*, *Archives in Pennsylvania for Genealogy Research*), and founder of [Chronicle Makers](https://chroniclemakers.com) — helping family historians transform research into published stories.
+Denyse Allen is a Pennsylvania genealogy researcher, published author (*The Revolutionary War Writing Workbook*, *Colonial Pennsylvania Genealogy Research*, *Pennsylvania Vital Records Research*, *Archives in Pennsylvania for Genealogy Research*), and founder of [Chronicle Makers](https://chroniclemakers.com) — helping family historians transform research into published stories.
 
 ## License
 
